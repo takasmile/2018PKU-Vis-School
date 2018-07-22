@@ -3,8 +3,6 @@
 ---
 - sketching
 - paper prototyping纸质模型
-- 
-
 ---
 ### 1. Sketching  
 Skeching is about to design.  
@@ -80,11 +78,3 @@ Other prototype techniques/tools:
 >- BumpTop: Iasso selection
 >- The Hotbox in Maya [Kurtenbach et al., 1999]
 >- ToolGlass: bimanual input
-### 4.
-
-### 5. 
-### 6. 
-### 7. 
-### 8. 
-### 9. 
-### 10. 
